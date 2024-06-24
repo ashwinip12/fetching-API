@@ -1,0 +1,24 @@
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Arial', 'sans-serif';
+}
+
+table thead tr {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: middle;
+}
+
+table th,
+table td {
+    padding: 12px 15px;
+}
+
+table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+
+
